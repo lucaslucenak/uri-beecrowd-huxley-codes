@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
-public class Uri2916 {
+class Uri2916 {
     public static void main (String []args) {
         Scanner entrada = new Scanner(System.in);
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));

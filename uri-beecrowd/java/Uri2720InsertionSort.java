@@ -1,7 +1,7 @@
 package Atividade01;
 import java.util.Scanner;
 
-public class Uri2720 {
+class Uri2720 {
     public static void main (String []args) {
         int k, n, t;
         int i, h, w, l, volume;
